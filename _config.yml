@@ -27,16 +27,16 @@ linkedin_username: mohammed-sharafath-abdul-hameed
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-1792-7748
-research_gate: Mohammed-Sharafath-Abdul-Hameed
+researchgate_username: Mohammed-Sharafath-Abdul-Hameed
 
 # Additional icon links
 additional_links:
 # - title: itsgoingto.be
 #   icon: fas fa-globe
 #   url: https://www.itsgoingto.be
-- title: another link
-  icon: fa-brands fa-researchgate
-  url: https://www.researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed
+# - title: another link
+#   icon: fa-brands fa-researchgate
+#   url: https://www.researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
