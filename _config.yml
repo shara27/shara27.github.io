@@ -35,7 +35,7 @@ additional_links:
 #   icon: fas fa-globe
 #   url: https://www.itsgoingto.be
 - title: another link
-  icon: fa-brands fa-researchgate
+  icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed
 
 # Google Analytics and Tag Manager
