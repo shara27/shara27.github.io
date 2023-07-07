@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -20,22 +20,23 @@ github_username:  shara27
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: mohammed-sharafath-abdul-hameed
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-1792-7748
+research_gate: Mohammed-Sharafath-Abdul-Hameed
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+- title: another link
+  icon: fa-brands fa-researchgate
+  url: https://www.researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
