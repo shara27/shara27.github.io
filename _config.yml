@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mohammed Sharafath and I'm a research scientist currently pursuing my Ph.D. in machine learning. I also have leadership experience in developing Python packages, developing custom solutions for our industrial partners, and guiding students in their master thesis. I have worked at a number of companies gaining experience in leadership skills and number crunching skills.
+  Hi, my name's Mohammed Sharafath and I'm a research scientist currently pursuing my Ph.D. in machine learning. I also have leadership experience in developing Python packages, developing custom solutions for our industrial partners, and mentoring students in their master thesis. I have worked at a few of companies gaining experience in leadership and number-crunching skills.
   
-  I am skilled in: <mark>Python</mark>, and its associated data science packages like <mark>NumPy</mark>, <mark>pandas</mark>, <mark>PyTorch</mark>, <mark>TensorFlow</mark>, <mark>Scikit-learn</mark>, <mark>PyG</mark>, <mark>DVC</mark>, <mark>Optuna</mark>, <mark>Matplotlib</mark>, <mark>Seaborn</mark>. Further, I have additional experience in <mark>MATLAB</mark>, <mark>MySQL</mark>, <mark>Google Colab</mark>, <mark>Gitlab</mark>.
+  I am skilled in: <mark>Python</mark>, and its associated data science packages like <mark>NumPy</mark>, <mark>pandas</mark>, <mark>PyTorch</mark>, <mark>TensorFlow</mark>, <mark>Scikit-learn</mark>, <mark>PyG</mark>, <mark>DVC</mark>, <mark>Optuna</mark>, <mark>Matplotlib</mark>, <mark>Seaborn</mark>. Further, I have additional experience in <mark>MATLAB</mark>, <mark>MySQL</mark>, <mark>Google Colab</mark>, <mark>AWS</mark>, and <mark>Gitlab</mark>.
 
   My data science experience includes <mark>Time series analysis</mark>, <mark>Image Classification</mark>, <mark>Graph Neural Networks</mark>, and <mark>Reinforcement Learning</mark> in task planning and robotics.
 
@@ -59,20 +59,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Gradient Monitored Reinforcement Learning
+        link: github.com/shara27/personal_portfolio/tree/main/gradient_monitoring
+        link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  Publication Link
+            icon: fab fa-researchgate
+            url: researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed/publication/341617567_Gradient_Monitored_Reinforcement_Learning/links/5ecba67f458515626cca43c6/Gradient-Monitored-Reinforcement-Learning.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          An algorithmic plug-in that can be used on top of any gradient-based learning system.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
+          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
