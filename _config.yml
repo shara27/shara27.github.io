@@ -66,15 +66,24 @@ content:
           - title:  Publication Link
             icon: fab fa-researchgate
             url: researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed/publication/341617567_Gradient_Monitored_Reinforcement_Learning/links/5ecba67f458515626cca43c6/Gradient-Monitored-Reinforcement-Learning.pdf
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           An algorithmic plug-in that can be used on top of any gradient-based learning system.
         description: | # this will include new lines to allow paragraphs
           One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
           The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
-
+      
+      - layout: top-middle
+        title: Gym Environments for Reinforcement Learning
+        link: github.com/shara27/personal_portfolio/tree/main/gym_environments
+        link_text: Project Website
+        quote: >
+          A subset of the collections of custom Gym environments that I developed during my Ph.D.
+        description: | # this will include new lines to allow paragraphs
+          In reinforcement learning, having a stable environment that an agent can learn from is a crucial part of the research.
+          Over the course of my research work, I developed a few environments for both robotics and digital twin applications.
+          Granted, this is not the complete list as the major ones were developed for companies, which I cannot publish here. 
+          But, I think this showcases my capabilities to develop usable code from complex ideas in domains like physics, operations research, and robotics.
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
