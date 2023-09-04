@@ -77,8 +77,9 @@ content:
         quote: >
           Health Prediction using EHR data
         description: | # this will include new lines to allow paragraphs
-          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
-          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
+          Analyzing health records to avert future complications and provide the right treatment plays an important role in medical diagnostics. This research introduces a method to use real-life ICD-coded Electronic Medical Records (EMR), clinical data collected between 2018-2019 in Africa, to create a prediction model.
+          The prediction model uses recent advances in machine learning, specifically Convolutional Neural Networks (CNN), to provide an alternative and a powerful way for disease risk prediction. An algorithm is first designed to process the real-life EMR data into multi-step time-series forecasting data. A CNN model is then developed, to predict the individual's future disease class (ICD-10 CM chapters) risk based on their demographic and medical history. The experimental results show that the model predicts future disease risk, for an individual, with an accuracy of 80.73%.
+          We conclude that such a model can prove immensely useful in cost savings for individuals and hospitals by performing preemptive corrective action, provide additional guidelines for hospitals' capacity planning, when the model is applied for demography, and, most importantly, peace of mind on personal health.
       
       - layout: top-middle
         title: Gradient Monitored Reinforcement Learning
