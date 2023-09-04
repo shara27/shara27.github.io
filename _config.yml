@@ -48,12 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mohammed Sharafath and I'm a research scientist currently pursuing my Ph.D. in machine learning. I also have leadership experience in developing Python packages, developing custom solutions for our industrial partners, and mentoring students in their master thesis. I have worked at a few of companies gaining experience in leadership and number-crunching skills.
-  
-  I am skilled in: <mark>Python</mark>, and its associated data science packages like <mark>NumPy</mark>, <mark>pandas</mark>, <mark>PyTorch</mark>, <mark>TensorFlow</mark>, <mark>Scikit-learn</mark>, <mark>PyG</mark>, <mark>DVC</mark>, <mark>Optuna</mark>, <mark>Matplotlib</mark>, <mark>Seaborn</mark>. Further, I have additional experience in <mark>MATLAB</mark>, <mark>MySQL</mark>, <mark>Google Colab</mark>, <mark>AWS</mark>, and <mark>Gitlab</mark>.
-
-  My data science experience includes <mark>Time series analysis</mark>, <mark>Image Classification</mark>, <mark>Graph Neural Networks</mark>, and <mark>Reinforcement Learning</mark> in task planning and robotics.
-
+  Greetings! I'm Mohammed Sharafath, a Ph.D. candidate in machine learning, passionate about harnessing the potential of data to shape a brighter future.
+  My journey as a research scientist has led me to develop Python packages, innovative algorithms, and custom solutions for industry partners.
+  With a background in leading teams and mentoring, I've honed my problem-solving and leadership skills.
+  My career has been a dynamic mix of academia and industry, equipping me with the expertise to tackle complex challenges and make a meaningful impact.
+  Welcome to my portfolio!
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
