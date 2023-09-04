@@ -59,6 +59,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Bearing Failure Analysis
+        additional_links:
+        quote: >
+          Bearing failure analysis using vibration data
+        description: | # this will include new lines to allow paragraphs
+          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
+          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
+      
+      - layout: top-middle
+        title: Health Prediction using EHR data
+        additional_links:
+          - title:  Publication Link
+            icon: fab fa-researchgate
+            url: https://www.researchgate.net/publication/357768010_Disease_Prediction_Based_on_Individual's_Medical_History_Using_CNN
+        quote: >
+          Health Prediction using EHR data
+        description: | # this will include new lines to allow paragraphs
+          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
+          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
+      
+      - layout: top-middle
         title: Gradient Monitored Reinforcement Learning
         link: github.com/shara27/personal_portfolio/tree/main/gradient_monitoring
         link_text: Project Website
