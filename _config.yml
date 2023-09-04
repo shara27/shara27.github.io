@@ -92,8 +92,9 @@ content:
         quote: >
           An algorithmic plug-in that can be used on top of any gradient-based learning system.
         description: | # this will include new lines to allow paragraphs
-          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
-          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
+          One of the first research projects that I carried out for my Ph.D. This project introduces a groundbreaking project centered around a novel approach to training neural networks for deep reinforcement learning (RL). The primary goal is to expedite convergence and enhance generalization in RL algorithms by systematically minimizing gradient variance, facilitating a more focused learning process.
+          Termed "Gradient Monitoring" (GM), this method adapts the neural network's weight parameters dynamically during training based on real-time feedback. Multiple GM variants, including "Momentum with GM" (M-WGM) and the advanced "Adaptive M-WGM" (AM-WGM), are proposed. These variants not only boost performance but also automate the adjustment of network sizes as trained weights are frozen.
+          Testing on various real-world multi-robot coordination problems and Atari games, as well as continuous control tasks in MuJoCo, using A2C and PPO, demonstrates remarkable improvements in generalization capabilities.
       
       - layout: top-middle
         title: Gym Environments for Reinforcement Learning
