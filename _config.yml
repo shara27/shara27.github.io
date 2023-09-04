@@ -64,8 +64,9 @@ content:
         quote: >
           Bearing failure analysis using vibration data
         description: | # this will include new lines to allow paragraphs
-          One of the first research projects that I carried out for my Ph.D. It works by controlling gradient fluctuations during back-propagation and enables stable and faster learning.
-          The biggest advantage is that this can be used as plug-in on top of any gradient-based system, and immediately realize gains in the neural network performance.
+          The project focuses on revolutionizing predictive maintenance in industrial machinery by harnessing the power of neural networks to predict bearing failures using accelerometer vibration data.
+          By employing advanced machine learning techniques, this innovative endeavor aims to analyze subtle changes in vibration patterns, detecting early signs of impending bearing issues. By doing so, it enables proactive maintenance interventions, preventing costly downtime and equipment damage.
+          The fully connected neural network models are designed to continuously learn and adapt, enhancing prediction accuracy over time. This project not only improves operational efficiency but also extends the lifespan of critical machinery, resulting in significant cost savings for industries reliant on heavy equipment.
       
       - layout: top-middle
         title: Health Prediction using EHR data
