@@ -60,9 +60,6 @@ content:
     content:
       - layout: top-middle
         title: Bearing Failure Analysis
-        additional_links:
-        quote: >
-          Bearing failure analysis using vibration data
         description: | # this will include new lines to allow paragraphs
           The project focuses on revolutionizing predictive maintenance in industrial machinery by harnessing the power of neural networks to predict bearing failures using accelerometer vibration data.
           By employing advanced machine learning techniques, this innovative endeavor aims to analyze subtle changes in vibration patterns, detecting early signs of impending bearing issues. By doing so, it enables proactive maintenance interventions, preventing costly downtime and equipment damage.
@@ -74,8 +71,6 @@ content:
           - title:  Publication Link
             icon: fab fa-researchgate
             url: https://www.researchgate.net/publication/357768010_Disease_Prediction_Based_on_Individual's_Medical_History_Using_CNN
-        quote: >
-          Health Prediction using EHR data
         description: | # this will include new lines to allow paragraphs
           This groundbreaking project focuses on harnessing the potential of real-life ICD-coded Electronic Medical Records (EMR) collected in Africa between 2018-2019 to revolutionize healthcare diagnostics. Using cutting-edge machine learning techniques, particularly Convolutional Neural Networks (CNN), this research has crafted a predictive model with the aim of averting future health complications.
           The process involves transforming raw EMR data into multi-step time-series forecasting data, enabling the CNN model to accurately forecast an individual's disease risk based on their medical history and demographics.
