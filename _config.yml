@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Mohammed Sharafath Abdul Hameed
 title: Research Scientist
-email: sharafath [at] outlook [dot] com
+email: sharafath (at) outlook (dot) com
 github: https://github.com/shara27
 
 # Dark Mode (true/false/never)
@@ -37,7 +37,6 @@ additional_links:
 - title: another link
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Mohammed-Sharafath-Abdul-Hameed
-  url: https://grabify.link/JMHH6U
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -126,6 +125,7 @@ content:
           I learnt about a lot of exciting new technologies in production systems, control systems, and of course, also machine learning. 
       
   - title: A Little More About Me
+    url: https://grabify.link/JMHH6U
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in machine learning and data science some of my other interests and hobbies are:
